@@ -1,0 +1,13 @@
+.odd-number {
+    background-color: pink;
+}
+
+#number2 {
+    background-color: blue;
+    font-size: larger;
+}
+
+#number4 {
+    background-color: lightgreen;
+    font-weight: bold;
+}
